@@ -1,0 +1,58 @@
+[
+  {
+    "FullName": "AA aa AA",
+    "Gender": "\u043C",
+    "EnrollmentDate": "2222-02-02T00:00:00",
+    "GraduationDate": "2225-02-02T00:00:00",
+    "IsEnrolled": false,
+    "AverageScore": 4.6
+  },
+  {
+    "FullName": "A aa aa",
+    "Gender": "\u043C",
+    "EnrollmentDate": "2002-03-03T00:00:00",
+    "GraduationDate": "2005-03-03T00:00:00",
+    "IsEnrolled": true,
+    "AverageScore": 5
+  },
+  {
+    "FullName": "a a a ",
+    "Gender": "\u0436",
+    "EnrollmentDate": "2222-07-07T00:00:00",
+    "GraduationDate": "2225-07-07T00:00:00",
+    "IsEnrolled": true,
+    "AverageScore": 5
+  },
+  {
+    "FullName": "f",
+    "Gender": "f",
+    "EnrollmentDate": "2000-03-03T00:00:00",
+    "GraduationDate": "2003-03-03T00:00:00",
+    "IsEnrolled": true,
+    "AverageScore": 2
+  },
+  {
+    "FullName": "as as as",
+    "Gender": "\u043C",
+    "EnrollmentDate": "2000-02-02T00:00:00",
+    "GraduationDate": "2003-02-02T00:00:00",
+    "IsEnrolled": true,
+    "AverageScore": 5
+  },
+  {
+    "FullName": "\u0434\u0434",
+    "Gender": "v",
+    "EnrollmentDate": "2000-02-02T00:00:00",
+    "GraduationDate": "2003-02-02T00:00:00",
+    "IsEnrolled": true,
+    "AverageScore": 5
+  },
+  {
+    "FullName": "dd",
+    "Gender": "d",
+    "EnrollmentDate": "2000-02-02T00:00:00",
+    "GraduationDate": "2003-02-02T00:00:00",
+    "IsEnrolled": true,
+    "AverageScore": 2
+  }
+]

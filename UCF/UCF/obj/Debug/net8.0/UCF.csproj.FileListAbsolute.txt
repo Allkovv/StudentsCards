@@ -1,0 +1,14 @@
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\bin\Debug\net8.0\UCF.exe
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\bin\Debug\net8.0\UCF.deps.json
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\bin\Debug\net8.0\UCF.runtimeconfig.json
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\bin\Debug\net8.0\UCF.dll
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\bin\Debug\net8.0\UCF.pdb
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\UCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\UCF.AssemblyInfoInputs.cache
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\UCF.AssemblyInfo.cs
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\UCF.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\UCF.dll
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\refint\UCF.dll
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\UCF.pdb
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\UCF.genruntimeconfig.cache
+C:\Users\Kira\Desktop\ghjtrn1\UCF\UCF\obj\Debug\net8.0\ref\UCF.dll

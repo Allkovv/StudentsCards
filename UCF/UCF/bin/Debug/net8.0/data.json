@@ -1,0 +1,18 @@
+[
+  {
+    "FullName": "Fk Fkk Fkkk",
+    "Gender": "\u043C",
+    "EnrollmentDate": "2022-03-03T00:00:00",
+    "GraduationDate": "2025-03-03T00:00:00",
+    "IsEnrolled": true,
+    "AverageScore": 5
+  },
+  {
+    "FullName": "Fk Fkk Fkk",
+    "Gender": "\u043C",
+    "EnrollmentDate": "2000-02-22T00:00:00",
+    "GraduationDate": "2003-02-22T00:00:00",
+    "IsEnrolled": false,
+    "AverageScore": 4.6
+  }
+]
